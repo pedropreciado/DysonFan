@@ -1,0 +1,8 @@
+{
+  "name": "DysonFan",
+  "description": "Script for personal use.",
+  "author": "Pedro Preciado III",
+  "dependencies": {
+    "dyson-purelink": "1.0.0"
+  }
+}
